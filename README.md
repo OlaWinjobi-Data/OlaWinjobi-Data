@@ -1,10 +1,9 @@
 # Hi, I'm Ola Winjobi 👋
-Data Analyst | Junior Data Scientist
+**Data Analyst | Junior Data Scientist**
 Python • SQL • Tableau • Looker Studio • Machine Learning • Predictive Analytics
 
 
 
-**Data Analyst | Junior Data Scientist**
 
 I am a data professional with experience in **data analytics, business intelligence, and machine learning**. My work focuses on transforming complex datasets into actionable insights that support data-driven decision making across industries such as finance, real estate, HR, and hospitality.
 
