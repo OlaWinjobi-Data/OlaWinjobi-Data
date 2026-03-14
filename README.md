@@ -42,55 +42,22 @@ Feature Engineering
 Model Evaluation
 
 ---
-
 # Featured Projects
 
-## Machine Learning Projects
+## Machine Learning / Data Science
 
-**Real Estate Price & Rental Demand Prediction**
+• Bluestone Real Estate – Price & Rental Demand Prediction  
+• Insurance Claim Cost Prediction  
+• Hotel Booking Cancellation Prediction  
+• DermAI Diagnostics SQL Database
 
-Predictive models built using real estate listing, inquiry, rental, and sales datasets to forecast final property prices and rental demand.
+## Data Analytics & Business Intelligence
 
-Repository:
-bluestone-real-estate-price-demand-prediction
-
----
-
-**Insurance Claim Cost Prediction**
-
-Machine learning model developed to estimate insurance claim costs using historical claims data.
-
-Repository:
-insurance-claim-cost-prediction
-
----
-
-**Hotel Booking Cancellation Prediction**
-
-Classification model developed to predict whether a hotel booking will be cancelled using booking behavior data.
-
-Repository:
-hotel-booking-cancellation-prediction
-
----
-
-## Data Analytics Projects
-
-**Gig Economy Platform Analysis**
-
-Interactive Tableau dashboards analyzing gig worker income patterns, demand trends, and platform performance.
-
----
-
-**Workforce Compensation Analytics**
-
-Looker Studio dashboard analyzing employee compensation structures, workforce demographics, and pay equity patterns.
-
----
-
-**Financial Ecosystem Analytics (Finguard)**
-
-SQL-based analytics project analyzing customer and merchant distribution, segmentation, and ecosystem health.
+• Gig Economy Platform Analysis (Tableau)  
+• Workforce Compensation Analytics (Looker Studio)  
+• Finguard Customer & Merchant Analytics (SQL)  
+• HomeTech Sales Performance Analysis  
+• CoreTech Excel Business Analysis
 
 ---
 
