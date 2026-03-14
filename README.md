@@ -1,7 +1,6 @@
 # Hi, I'm Ola Winjobi 👋
 
 
-# Ola Winjobi
 
 **Data Analyst | Junior Data Scientist**
 
