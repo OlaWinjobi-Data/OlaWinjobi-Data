@@ -7,7 +7,7 @@
 
 I am a data professional with experience in **data analytics, business intelligence, and machine learning**. My work focuses on transforming complex datasets into actionable insights that support data-driven decision making across industries such as finance, real estate, HR, and hospitality.
 
-My portfolio demonstrates projects involving **exploratory data analysis, dashboard development, predictive modeling, and database design**, using tools such as Python, SQL, Tableau, Looker Studio, and Excel.
+My portfolio demonstrates projects involving **exploratory data analysis, dashboard development, predictive modeling, and database design**, using tools such as Python, SQL, Tableau, Looker Studio, Power BI, and Excel.
 
 ---
 
