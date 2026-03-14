@@ -42,6 +42,8 @@ Feature Engineering
 Model Evaluation
 
 ---
+# Featured Projects
+
 ## Machine Learning / Data Science
 
 • Bluestone Real Estate – Price & Rental Demand Prediction  
@@ -58,8 +60,6 @@ Model Evaluation
 • CoreTech Excel Business Analysis
 
 ---
-# Featured Projects
-
 ## Machine Learning Projects
 
 **Real Estate Price & Rental Demand Prediction**
