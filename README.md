@@ -23,6 +23,7 @@ NumPy
 ### Data Visualization
 
 Tableau
+Power BI
 Looker Studio
 Matplotlib
 Seaborn
