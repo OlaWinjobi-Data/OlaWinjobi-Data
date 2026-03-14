@@ -1,4 +1,6 @@
 # Hi, I'm Ola Winjobi 👋
+Data Analyst | Junior Data Scientist
+Python • SQL • Tableau • Looker Studio • Machine Learning • Predictive Analytics
 
 
 
