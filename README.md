@@ -42,8 +42,6 @@ Feature Engineering
 Model Evaluation
 
 ---
-# Featured Projects
-
 ## Machine Learning / Data Science
 
 • Bluestone Real Estate – Price & Rental Demand Prediction  
