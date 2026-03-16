@@ -48,9 +48,10 @@ Classification Models
 Feature Engineering
 Model Evaluation
 
+---
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true&theme=default)
+![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaWinjobi-Data&layout=compact)
 
