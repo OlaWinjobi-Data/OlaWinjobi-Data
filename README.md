@@ -2,6 +2,15 @@
 
 **Data Analyst | Junior Data Scientist**
 
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange?logo=tableau)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=powerbi)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-green)
+![Excel](https://img.shields.io/badge/Excel-Analytics-darkgreen?logo=microsoft-excel)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-red)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
 I am a data professional with experience in **data analytics, business intelligence, and machine learning**. My work focuses on transforming complex datasets into actionable insights that support **data-driven decision-making** across industries including finance, real estate, healthcare, marketing, and hospitality.
 
 My portfolio demonstrates projects involving **exploratory data analysis, predictive modeling, database design, and interactive dashboards** using tools such as **Python, SQL, Tableau, Power BI, Looker Studio, and Excel**.
