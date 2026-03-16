@@ -49,13 +49,12 @@ Feature Engineering
 Model Evaluation
 
 ---
-## GitHub Stats
 
-## GitHub Stats
+## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaWinjobi-Data&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaWinjobi-Data&layout=compact)
 
 ---
 
