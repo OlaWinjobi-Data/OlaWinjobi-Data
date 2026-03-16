@@ -1,13 +1,10 @@
-# Hi, I'm Ola Winjobi 👋
+# Ola Winjobi
+
 **Data Analyst | Junior Data Scientist**
-#### Python • SQL • Tableau • Power BI • Looker Studio • Machine Learning • Predictive Analytics
 
+I am a data professional with experience in **data analytics, business intelligence, and machine learning**. My work focuses on transforming complex datasets into actionable insights that support **data-driven decision-making** across industries including finance, real estate, healthcare, marketing, and hospitality.
 
-
-
-I am a data professional with experience in **data analytics, business intelligence, and machine learning**. My work focuses on transforming complex datasets into actionable insights that support data-driven decision making across industries such as finance, real estate, HR, and hospitality.
-
-My portfolio demonstrates projects involving **exploratory data analysis, dashboard development, predictive modeling, and database design**, using tools such as Python, SQL, Tableau, Looker Studio, Power BI, and Excel.
+My portfolio demonstrates projects involving **exploratory data analysis, predictive modeling, database design, and interactive dashboards** using tools such as **Python, SQL, Tableau, Power BI, Looker Studio, and Excel**.
 
 ---
 
@@ -43,69 +40,134 @@ Feature Engineering
 Model Evaluation
 
 ---
-# Featured Projects
 
-## Machine Learning / Data Science
+# Machine Learning / Data Science Projects
 
-• Bluestone Real Estate – Price & Rental Demand Prediction  
-• Insurance Claim Cost Prediction  
-• Hotel Booking Cancellation Prediction  
-• DermAI Diagnostics SQL Database
+### Real Estate Price & Rental Demand Prediction
 
-## Data Analytics & Business Intelligence
+Predictive models developed using listing, inquiry, rental, and sales datasets to forecast **final apartment sale prices and rental demand**.
 
-• Gig Economy Platform Analysis (Tableau)  
-• Workforce Compensation Analytics (Looker Studio)  
-• Finguard Customer & Merchant Analytics (SQL)  
-• HomeTech Sales Performance Analysis  
-• CoreTech Excel Business Analysis
-
----
-## Machine Learning Projects
-
-**Real Estate Price & Rental Demand Prediction**
-
-Predictive models built using real estate listing, inquiry, rental, and sales datasets to forecast final property prices and rental demand.
+Repository:
+https://github.com/OlaWinjobi-Data/DS-BlueStone-Real-Estate-Inc.-Apartment-and-Rental-Price-Prediction
 
 ---
 
-**Insurance Claim Cost Prediction**
+### Motor Insurance Claim Cost Prediction
 
-Machine learning model developed to estimate insurance claim costs using historical claims data.
+Machine learning model predicting **motor insurance claim costs using FNOL (First Notice of Loss) data**, helping insurers estimate potential claim expenses early.
 
----
-
-**Hotel Booking Cancellation Prediction**
-
-Classification model developed to predict whether a hotel booking will be cancelled using booking behavior data.
+Repository:
+https://github.com/OlaWinjobi-Data/DS-Guardian-Mutual-Assurance-Early-Prediction-of-Motor-Insurance-Claim-Costs-Using-FNOL-Data
 
 ---
 
-## Data Analytics Projects
+### Hotel Booking Cancellation Prediction
 
-**Gig Economy Platform Analysis**
+Classification model predicting whether a **hotel booking will be cancelled or completed** using customer booking behaviour data.
 
-Interactive Tableau dashboards analyzing gig worker income patterns, demand trends, and platform performance.
-
----
-
-**Workforce Compensation Analytics**
-
-Looker Studio dashboard analyzing employee compensation structures, workforce demographics, and pay equity patterns.
+Repository:
+https://github.com/OlaWinjobi-Data/DS-Hotel-Haven-A-predictive-model-to-determine-the-booking-status-of-a-customer
 
 ---
 
-**Financial Ecosystem Analytics (Finguard)**
+### Credit Portfolio Risk Analysis
 
-SQL-based analytics project analyzing customer and merchant distribution, segmentation, and ecosystem health.
+Data science project analyzing lending data to evaluate **credit portfolio risk and borrower behaviour**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DS-BrightShore-Lending-Credit-Portfolio-Risk-Analysis
+
+---
+
+### DermAI Diagnostics – Medical Data Architecture
+
+SQL database design project structuring dermatology diagnostic datasets to support **machine learning and early-stage disease detection models**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DS-DermAI-Diagnostics
+
+---
+
+# Data Analytics & Business Intelligence Projects
+
+### Gig Economy Platform Analytics
+
+Tableau-based analytics project exploring **gig worker income trends, demand patterns, and platform activity insights**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DA-Gig-Economy-Analytics
+
+---
+
+### FinGuard Customer & Merchant Ecosystem Analytics
+
+SQL analytics project analyzing **customer demographics, merchant distribution, and ecosystem performance trends**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DA-FinGuard-Customer-Merchant-Ecosystem-Analytics
+
+---
+
+### CoreTech Labs Road Accident Analysis
+
+Excel-based analytics project investigating **road traffic accident patterns and contributing risk factors**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DA-Coretech-Labs-Road-Accident-Analysis
+
+---
+
+### OptiSecure Marketing Campaign Analytics
+
+Marketing analytics project evaluating **campaign performance and optimization strategies** using data-driven insights.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DA-OptiSecure-Marketing-Analytics-Campaign-Optimization
+
+---
+
+### HomeTech Smart Energy Optimization Analysis
+
+Business analytics project analyzing **energy usage patterns and optimization opportunities for smart home systems**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DA-HomeTech-Solutions-Smart-Energy-Optimization
+
+---
+
+### HealthLink Social Determinants of Health Analytics
+
+Power BI analytics project exploring **social and environmental factors influencing health outcomes**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/DA-HealthLink-Social-Determinants-of-Health-Analytics-Power-BI-
+
+---
+
+### AfriTech Electronics Business Intelligence
+
+Business intelligence analysis examining **customer behaviour, product performance, and sales insights**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/BI-AfriTech-Electronics-Business-Intelligence-Customer-Analytics
+
+---
+
+### Workforce Compensation & Pay Equity Analysis
+
+HR analytics project analyzing **employee demographics, salary structures, and pay equity patterns**.
+
+Repository:
+https://github.com/OlaWinjobi-Data/Cavier-Co-Workforce-Compensation-Analytics-Pay-Equity-Salary-Structure-Analysis
+
+---
 
 # Tools & Technologies
 
 Python
 SQL
-Power BI
-Power Automate
 Tableau
+Power BI
 Looker Studio
 Excel
 Jupyter Notebook
@@ -119,11 +181,10 @@ I am currently expanding my skills in:
 
 • Machine Learning
 • Predictive Analytics
-• Data Science for Business Applications
-• End-to-End Data Projects
+• Advanced Data Visualization
+• End-to-End Data Science Projects
 
 ---
-
 # Contact
 
 LinkedIn: www.linkedin.com/in/olawinjobi
