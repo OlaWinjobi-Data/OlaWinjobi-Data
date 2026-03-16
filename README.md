@@ -51,9 +51,11 @@ Model Evaluation
 ---
 ## GitHub Stats
 
-![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaWinjobi-Data&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaWinjobi-Data&layout=compact&langs_count=6)
 
 ---
 
