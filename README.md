@@ -50,14 +50,6 @@ Model Evaluation
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlaWinjobi-Data&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaWinjobi-Data&layout=compact)
-
----
-
 # Machine Learning / Data Science Projects
 
 ### Real Estate Price & Rental Demand Prediction
