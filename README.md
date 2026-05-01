@@ -17,6 +17,18 @@ My work focuses on transforming complex datasets into actionable insights that s
 My portfolio demonstrates projects involving **exploratory data analysis, predictive modeling, database design, and interactive dashboards** using tools such as **Python, SQL, Tableau, Power BI, Looker Studio, and Excel**.
 
 ---
+# Featured Projects
+
+- **BlueStone Real Estate — Price & Rental Demand Prediction**  
+  Built predictive models using multi-source real estate data to improve pricing accuracy and demand visibility.  
+
+- **Workforce Compensation & Pay Equity Analysis**  
+  Analyzed workforce and compensation data to assess pay equity, workforce structure, and HR strategy.  
+
+- **HealthLink — Healthcare Disparities & Real-Time Monitoring**  
+  Developed a real-time analytics solution using Power BI and Power Automate to monitor healthcare disparities and support decision-making.  
+
+---
 
 # Technical Skills
 
@@ -34,7 +46,7 @@ Regression, Classification, Feature Engineering, Model Evaluation
 
 ---
 
-# Machine Learning / Data Science Projects
+# 📊 Data Science Projects
 
 ### Real Estate Price & Rental Demand Prediction
 
@@ -47,7 +59,7 @@ https://github.com/OlaWinjobi-Data/DS-BlueStone-Real-Estate-Inc.-Apartment-and-R
 
 ### Motor Insurance Claim Cost Prediction
 
-Machine learning model predicting **motor insurance claim costs using FNOL (First Notice of Loss) data**, helping insurers estimate potential claim expenses early.
+Built a machine learning model to predict **motor insurance claim costs using FNOL data**, enabling early estimation of potential claim expenses.
 
 Repository:
 https://github.com/OlaWinjobi-Data/DS-Guardian-Mutual-Assurance-Early-Prediction-of-Motor-Insurance-Claim-Costs-Using-FNOL-Data
@@ -81,7 +93,7 @@ https://github.com/OlaWinjobi-Data/DS-DermAI-Diagnostics
 
 ---
 
-# Data Analytics & Business Intelligence Projects
+# 📈 Data Analytics & Business Intelligence Projects
 
 ### Gig Economy Platform Analytics
 
@@ -122,41 +134,30 @@ https://github.com/OlaWinjobi-Data/DA-OptiSecure-Marketing-Analytics-Campaign-Op
 ### HomeTech Smart Energy Optimization Analysis
 
 Business analytics project analyzing **energy usage patterns and optimization opportunities for smart home systems**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DA-HomeTech-Solutions-Smart-Energy-Optimization
 
 ---
 
 ### HealthLink Social Determinants of Health Analytics
-
 Power BI analytics project exploring **social and environmental factors influencing health outcomes**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DA-HealthLink-Social-Determinants-of-Health-Analytics-Power-BI-
 
 ---
-
 ### AfriTech Electronics Business Intelligence
-
 Business intelligence analysis examining **customer behaviour, product performance, and sales insights**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/BI-AfriTech-Electronics-Business-Intelligence-Customer-Analytics
 
 ---
-
 ### Workforce Compensation & Pay Equity Analysis
-
 HR analytics project analyzing **employee demographics, salary structures, and pay equity patterns**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/Cavier-Co-Workforce-Compensation-Analytics-Pay-Equity-Salary-Structure-Analysis
 
 ---
-
-# Tools & Technologies
-
+# ⚙️ Tools & Environment
 Python
 SQL
 Tableau
@@ -167,28 +168,21 @@ Jupyter Notebook
 GitHub
 
 ---
-
-# Current Focus
-
+# 🚀 Current Focus
 - Advanced Machine Learning & Predictive Modeling  
 - End-to-End Data Science Projects  
 - Data-Driven Decision Systems  
 - Advanced Data Visualization & Storytelling
-  
 ---
-# Business Impact
-
+# 💼 Business Impact
 Across my projects, I focus on delivering measurable value:
-
 - Improving pricing and forecasting accuracy through predictive modeling  
 - Enhancing workforce and compensation decision-making using HR analytics  
 - Enabling real-time monitoring and reporting through automated dashboards  
-- Supporting data-driven strategy across finance, healthcare, and business operations
-  
+- Supporting data-driven strategy across finance, healthcare, and business operations 
 ---
-# Contact
-
-LinkedIn: www.linkedin.com/in/olawinjobi
-Email: ola@winjobi.com
+# 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/olawinjobi  
+- Email: ola@winjobi.com  
 
 ---
