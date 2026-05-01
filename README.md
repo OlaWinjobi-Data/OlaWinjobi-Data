@@ -11,7 +11,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 
-I am a data professional with experience in **data analytics, business intelligence, and machine learning**. My work focuses on transforming complex datasets into actionable insights that support **data-driven decision-making** across industries including finance, real estate, healthcare, marketing, and hospitality.
+I’m a **Data Scientist & Analytics Consultant** specializing in financial, HR, and business analytics. I build predictive models, design analytical solutions, and deliver insights that support better decision-making, operational efficiency, and business performance.
+My work focuses on transforming complex datasets into actionable insights that support **data-driven decision-making** across industries including finance, real estate, healthcare, marketing, and hospitality.
 
 My portfolio demonstrates projects involving **exploratory data analysis, predictive modeling, database design, and interactive dashboards** using tools such as **Python, SQL, Tableau, Power BI, Looker Studio, and Excel**.
 
@@ -19,34 +20,17 @@ My portfolio demonstrates projects involving **exploratory data analysis, predic
 
 # Technical Skills
 
-### Programming & Data Analysis
+**Programming & Data Analysis:**  
+Python, SQL, Pandas, NumPy  
 
-Python
-SQL
-Pandas
-NumPy
+**Data Visualization:**  
+Power BI, Tableau, Looker Studio, Matplotlib, Seaborn  
 
-### Data Visualization
+**Analytics & BI:**  
+Exploratory Data Analysis, Data Transformation, Dashboard Development, Business Intelligence  
 
-Tableau
-Power BI
-Looker Studio
-Matplotlib
-Seaborn
-
-### Data Analytics
-
-Exploratory Data Analysis
-Data Cleaning & Transformation
-Business Intelligence Reporting
-Dashboard Development
-
-### Machine Learning
-
-Regression Models
-Classification Models
-Feature Engineering
-Model Evaluation
+**Machine Learning:**  
+Regression, Classification, Feature Engineering, Model Evaluation  
 
 ---
 
@@ -54,7 +38,7 @@ Model Evaluation
 
 ### Real Estate Price & Rental Demand Prediction
 
-Predictive models developed using listing, inquiry, rental, and sales datasets to forecast **final apartment sale prices and rental demand**.
+Built predictive models using listing, inquiry, rental, and sales datasets to forecast **apartment sale prices and rental demand**.
 
 Repository:
 https://github.com/OlaWinjobi-Data/DS-BlueStone-Real-Estate-Inc.-Apartment-and-Rental-Price-Prediction
@@ -186,13 +170,21 @@ GitHub
 
 # Current Focus
 
-I am currently expanding my skills in:
+- Advanced Machine Learning & Predictive Modeling  
+- End-to-End Data Science Projects  
+- Data-Driven Decision Systems  
+- Advanced Data Visualization & Storytelling
+  
+---
+# Business Impact
 
-• Machine Learning
-• Predictive Analytics
-• Advanced Data Visualization
-• End-to-End Data Science Projects
+Across my projects, I focus on delivering measurable value:
 
+- Improving pricing and forecasting accuracy through predictive modeling  
+- Enhancing workforce and compensation decision-making using HR analytics  
+- Enabling real-time monitoring and reporting through automated dashboards  
+- Supporting data-driven strategy across finance, healthcare, and business operations
+  
 ---
 # Contact
 
