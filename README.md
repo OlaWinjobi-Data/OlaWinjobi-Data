@@ -1,6 +1,6 @@
 # Ola Winjobi
 
-**Data Analyst | Junior Data Scientist**
+**Data Scientist & Analytics Consultant**
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql)
