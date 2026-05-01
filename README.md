@@ -29,8 +29,7 @@ My portfolio demonstrates projects involving **exploratory data analysis, predic
   Developed a real-time analytics solution using Power BI and Power Automate to monitor healthcare disparities and support decision-making.  
 
 ---
-
-# Technical Skills
+# 🛠 Technical Skills
 
 **Programming & Data Analysis:**  
 Python, SQL, Pandas, NumPy  
@@ -47,47 +46,36 @@ Regression, Classification, Feature Engineering, Model Evaluation
 ---
 
 # 📊 Data Science Projects
-
 ### Real Estate Price & Rental Demand Prediction
-
 Built predictive models using listing, inquiry, rental, and sales datasets to forecast **apartment sale prices and rental demand**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DS-BlueStone-Real-Estate-Inc.-Apartment-and-Rental-Price-Prediction
 
 ---
 
 ### Motor Insurance Claim Cost Prediction
-
 Built a machine learning model to predict **motor insurance claim costs using FNOL data**, enabling early estimation of potential claim expenses.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DS-Guardian-Mutual-Assurance-Early-Prediction-of-Motor-Insurance-Claim-Costs-Using-FNOL-Data
 
 ---
 
 ### Hotel Booking Cancellation Prediction
-
 Classification model predicting whether a **hotel booking will be cancelled or completed** using customer booking behaviour data.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DS-Hotel-Haven-A-predictive-model-to-determine-the-booking-status-of-a-customer
 
 ---
 
 ### Credit Portfolio Risk Analysis
-
 Data science project analyzing lending data to evaluate **credit portfolio risk and borrower behaviour**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DS-BrightShore-Lending-Credit-Portfolio-Risk-Analysis
 
 ---
 
 ### DermAI Diagnostics – Medical Data Architecture
-
 SQL database design project structuring dermatology diagnostic datasets to support **machine learning and early-stage disease detection models**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DS-DermAI-Diagnostics
 
@@ -96,36 +84,28 @@ https://github.com/OlaWinjobi-Data/DS-DermAI-Diagnostics
 # 📈 Data Analytics & Business Intelligence Projects
 
 ### Gig Economy Platform Analytics
-
 Tableau-based analytics project exploring **gig worker income trends, demand patterns, and platform activity insights**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DA-Gig-Economy-Analytics
 
 ---
 
 ### FinGuard Customer & Merchant Ecosystem Analytics
-
 SQL analytics project analyzing **customer demographics, merchant distribution, and ecosystem performance trends**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DA-FinGuard-Customer-Merchant-Ecosystem-Analytics
 
 ---
 
 ### CoreTech Labs Road Accident Analysis
-
 Excel-based analytics project investigating **road traffic accident patterns and contributing risk factors**.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DA-Coretech-Labs-Road-Accident-Analysis
 
 ---
 
 ### OptiSecure Marketing Campaign Analytics
-
 Marketing analytics project evaluating **campaign performance and optimization strategies** using data-driven insights.
-
 Repository:
 https://github.com/OlaWinjobi-Data/DA-OptiSecure-Marketing-Analytics-Campaign-Optimization
 
