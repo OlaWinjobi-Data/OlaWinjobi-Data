@@ -58,49 +58,6 @@ Regression, Classification, Feature Engineering, Model Evaluation, Predictive Mo
 ---
 
 # 📊 Data Analytics & Business Intelligence Projects
-
-### Gig Economy Platform Analytics
-
-Tableau-based analytics project exploring **gig worker income trends, demand patterns and platform activity**.
-
-Repository:
-https://github.com/OlaWinjobi-Data/DA-Gig-Economy-Analytics
-
-### FinGuard Customer & Merchant Ecosystem Analytics
-
-SQL analytics project analysing **customer demographics, merchant distribution and ecosystem performance trends**.
-
-Repository:
-https://github.com/OlaWinjobi-Data/DA-FinGuard-Customer-Merchant-Ecosystem-Analytics
-
-### CoreTech Labs Road Accident Analysis
-
-Excel-based analytics project investigating **road traffic accident patterns and contributing risk factors**.
-
-Repository:
-https://github.com/OlaWinjobi-Data/DA-Coretech-Labs-Road-Accident-Analysis
-
-### OptiSecure Marketing Campaign Analytics
-
-Marketing analytics project evaluating **campaign performance and optimisation opportunities** using data-driven analysis.
-
-Repository:
-https://github.com/OlaWinjobi-Data/DA-OptiSecure-Marketing-Analytics-Campaign-Optimization
-
-### HomeTech Smart Energy Optimisation Analysis
-
-Business analytics project examining **energy usage patterns and opportunities for optimisation** in smart home systems.
-
-Repository:
-https://github.com/OlaWinjobi-Data/DA-HomeTech-Solutions-Smart-Energy-Optimization
-
-### HealthLink Social Determinants of Health Analytics
-
-Power BI analytics project exploring **social and environmental factors influencing health outcomes**.
-
-Repository:
-https://github.com/OlaWinjobi-Data/DA-HealthLink-Social-Determinants-of-Health-Analytics-Power-BI-
---
 # 📈 Data Analytics & Business Intelligence Projects
 
 ### Gig Economy Platform Analytics
@@ -155,6 +112,7 @@ https://github.com/OlaWinjobi-Data/BI-AfriTech-Electronics-Business-Intelligence
 HR analytics project analyzing **employee demographics, salary structures, and pay equity patterns**.
 Repository:
 https://github.com/OlaWinjobi-Data/Cavier-Co-Workforce-Compensation-Analytics-Pay-Equity-Salary-Structure-Analysis
+
 ---
 
 # 🤖 Data Science & Predictive Analytics Projects
