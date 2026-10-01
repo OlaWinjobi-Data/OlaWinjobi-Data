@@ -1,171 +1,4 @@
-# Ola Winjobi
 
-**Data Scientist & Analytics Consultant**
-
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange?logo=tableau)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=powerbi)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-green)
-![Excel](https://img.shields.io/badge/Excel-Analytics-darkgreen?logo=microsoft-excel)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-red)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
-
-I’m a **Data Scientist & Analytics Consultant** specializing in financial, HR, and business analytics. I build predictive models, design analytical solutions, and deliver insights that support better decision-making, operational efficiency, and business performance.
-My work focuses on transforming complex datasets into actionable insights that support **data-driven decision-making** across industries including finance, real estate, healthcare, marketing, and hospitality.
-
-My portfolio demonstrates projects involving **exploratory data analysis, predictive modeling, database design, and interactive dashboards** using tools such as **Python, SQL, Tableau, Power BI, Looker Studio, and Excel**.
-
----
-# Featured Projects
-
-- **BlueStone Real Estate — Price & Rental Demand Prediction**  
-  Built predictive models using multi-source real estate data to improve pricing accuracy and demand visibility.  
-
-- **Workforce Compensation & Pay Equity Analysis**  
-  Analyzed workforce and compensation data to assess pay equity, workforce structure, and HR strategy.  
-
-- **HealthLink — Healthcare Disparities & Real-Time Monitoring**  
-  Developed a real-time analytics solution using Power BI and Power Automate to monitor healthcare disparities and support decision-making.  
-
----
-# 🛠 Technical Skills
-
-**Programming & Data Analysis:**  
-Python, SQL, Pandas, NumPy  
-
-**Data Visualization:**  
-Power BI, Tableau, Looker Studio, Matplotlib, Seaborn  
-
-**Analytics & BI:**  
-Exploratory Data Analysis, Data Transformation, Dashboard Development, Business Intelligence  
-
-**Machine Learning:**  
-Regression, Classification, Feature Engineering, Model Evaluation  
-
----
-
-# 📊 Data Science Projects
-### Real Estate Price & Rental Demand Prediction
-Built predictive models using listing, inquiry, rental, and sales datasets to forecast **apartment sale prices and rental demand**.
-Repository:
-https://github.com/OlaWinjobi-Data/DS-BlueStone-Real-Estate-Inc.-Apartment-and-Rental-Price-Prediction
-
----
-
-### Motor Insurance Claim Cost Prediction
-Built a machine learning model to predict **motor insurance claim costs using FNOL data**, enabling early estimation of potential claim expenses.
-Repository:
-https://github.com/OlaWinjobi-Data/DS-Guardian-Mutual-Assurance-Early-Prediction-of-Motor-Insurance-Claim-Costs-Using-FNOL-Data
-
----
-
-### Hotel Booking Cancellation Prediction
-Classification model predicting whether a **hotel booking will be cancelled or completed** using customer booking behaviour data.
-Repository:
-https://github.com/OlaWinjobi-Data/DS-Hotel-Haven-A-predictive-model-to-determine-the-booking-status-of-a-customer
-
----
-
-### Credit Portfolio Risk Analysis
-Data science project analyzing lending data to evaluate **credit portfolio risk and borrower behaviour**.
-Repository:
-https://github.com/OlaWinjobi-Data/DS-BrightShore-Lending-Credit-Portfolio-Risk-Analysis
-
----
-
-### DermAI Diagnostics – Medical Data Architecture
-SQL database design project structuring dermatology diagnostic datasets to support **machine learning and early-stage disease detection models**.
-Repository:
-https://github.com/OlaWinjobi-Data/DS-DermAI-Diagnostics
-
----
-
-# 📈 Data Analytics & Business Intelligence Projects
-
-### Gig Economy Platform Analytics
-Tableau-based analytics project exploring **gig worker income trends, demand patterns, and platform activity insights**.
-Repository:
-https://github.com/OlaWinjobi-Data/DA-Gig-Economy-Analytics
-
----
-
-### FinGuard Customer & Merchant Ecosystem Analytics
-SQL analytics project analyzing **customer demographics, merchant distribution, and ecosystem performance trends**.
-Repository:
-https://github.com/OlaWinjobi-Data/DA-FinGuard-Customer-Merchant-Ecosystem-Analytics
-
----
-
-### CoreTech Labs Road Accident Analysis
-Excel-based analytics project investigating **road traffic accident patterns and contributing risk factors**.
-Repository:
-https://github.com/OlaWinjobi-Data/DA-Coretech-Labs-Road-Accident-Analysis
-
----
-
-### OptiSecure Marketing Campaign Analytics
-Marketing analytics project evaluating **campaign performance and optimization strategies** using data-driven insights.
-Repository:
-https://github.com/OlaWinjobi-Data/DA-OptiSecure-Marketing-Analytics-Campaign-Optimization
-
----
-
-### HomeTech Smart Energy Optimization Analysis
-
-Business analytics project analyzing **energy usage patterns and optimization opportunities for smart home systems**.
-Repository:
-https://github.com/OlaWinjobi-Data/DA-HomeTech-Solutions-Smart-Energy-Optimization
-
----
-
-### HealthLink Social Determinants of Health Analytics
-Power BI analytics project exploring **social and environmental factors influencing health outcomes**.
-Repository:
-https://github.com/OlaWinjobi-Data/DA-HealthLink-Social-Determinants-of-Health-Analytics-Power-BI-
-
----
-### AfriTech Electronics Business Intelligence
-Business intelligence analysis examining **customer behaviour, product performance, and sales insights**.
-Repository:
-https://github.com/OlaWinjobi-Data/BI-AfriTech-Electronics-Business-Intelligence-Customer-Analytics
-
----
-### Workforce Compensation & Pay Equity Analysis
-HR analytics project analyzing **employee demographics, salary structures, and pay equity patterns**.
-Repository:
-https://github.com/OlaWinjobi-Data/Cavier-Co-Workforce-Compensation-Analytics-Pay-Equity-Salary-Structure-Analysis
-
----
-# ⚙️ Tools & Environment
-Python
-SQL
-Tableau
-Power BI
-Looker Studio
-Excel
-Jupyter Notebook
-GitHub
-
----
-# 🚀 Current Focus
-- Advanced Machine Learning & Predictive Modeling  
-- End-to-End Data Science Projects  
-- Data-Driven Decision Systems  
-- Advanced Data Visualization & Storytelling
----
-# 💼 Business Impact
-Across my projects, I focus on delivering measurable value:
-- Improving pricing and forecasting accuracy through predictive modeling  
-- Enhancing workforce and compensation decision-making using HR analytics  
-- Enabling real-time monitoring and reporting through automated dashboards  
-- Supporting data-driven strategy across finance, healthcare, and business operations 
----
-# 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/olawinjobi  
-- Email: ola@winjobi.com  
-
----
 # Ola Winjobi
 
 **Data Analytics Consultant | Data Analyst**
@@ -189,6 +22,10 @@ Alongside my professional analytics experience, my portfolio includes projects i
 ---
 
 # Featured Projects
+
+### Employee Attrition Analytics
+
+Workforce analytics project analysing **employee turnover, attrition patterns, tenure, engagement, compensation and departmental trends** to identify potential workforce risks and support evidence-based retention decisions.
 
 ### Workforce Compensation & Pay Equity Analysis
 
@@ -263,7 +100,61 @@ Power BI analytics project exploring **social and environmental factors influenc
 
 Repository:
 https://github.com/OlaWinjobi-Data/DA-HealthLink-Social-Determinants-of-Health-Analytics-Power-BI-
+--
+# 📈 Data Analytics & Business Intelligence Projects
 
+### Gig Economy Platform Analytics
+Tableau-based analytics project exploring **gig worker income trends, demand patterns, and platform activity insights**.
+Repository:
+https://github.com/OlaWinjobi-Data/DA-Gig-Economy-Analytics
+
+---
+
+### FinGuard Customer & Merchant Ecosystem Analytics
+SQL analytics project analyzing **customer demographics, merchant distribution, and ecosystem performance trends**.
+Repository:
+https://github.com/OlaWinjobi-Data/DA-FinGuard-Customer-Merchant-Ecosystem-Analytics
+
+---
+
+### CoreTech Labs Road Accident Analysis
+Excel-based analytics project investigating **road traffic accident patterns and contributing risk factors**.
+Repository:
+https://github.com/OlaWinjobi-Data/DA-Coretech-Labs-Road-Accident-Analysis
+
+---
+
+### OptiSecure Marketing Campaign Analytics
+Marketing analytics project evaluating **campaign performance and optimization strategies** using data-driven insights.
+Repository:
+https://github.com/OlaWinjobi-Data/DA-OptiSecure-Marketing-Analytics-Campaign-Optimization
+
+---
+
+### HomeTech Smart Energy Optimization Analysis
+
+Business analytics project analyzing **energy usage patterns and optimization opportunities for smart home systems**.
+Repository:
+https://github.com/OlaWinjobi-Data/DA-HomeTech-Solutions-Smart-Energy-Optimization
+
+---
+
+### HealthLink Social Determinants of Health Analytics
+Power BI analytics project exploring **social and environmental factors influencing health outcomes**.
+Repository:
+https://github.com/OlaWinjobi-Data/DA-HealthLink-Social-Determinants-of-Health-Analytics-Power-BI-
+
+---
+### AfriTech Electronics Business Intelligence
+Business intelligence analysis examining **customer behaviour, product performance, and sales insights**.
+Repository:
+https://github.com/OlaWinjobi-Data/BI-AfriTech-Electronics-Business-Intelligence-Customer-Analytics
+
+---
+### Workforce Compensation & Pay Equity Analysis
+HR analytics project analyzing **employee demographics, salary structures, and pay equity patterns**.
+Repository:
+https://github.com/OlaWinjobi-Data/Cavier-Co-Workforce-Compensation-Analytics-Pay-Equity-Salary-Structure-Analysis
 ---
 
 # 🤖 Data Science & Predictive Analytics Projects
@@ -302,3 +193,32 @@ SQL database design project structuring dermatology diagnostic data to support *
 
 Repository:
 https://github.com/OlaWinjobi-Data/DS-DermAI-Diagnostics
+---
+
+# ⚙️ Tools & Environment
+Python
+SQL
+Tableau
+Power BI
+Looker Studio
+Excel
+Jupyter Notebook
+GitHub
+
+---
+# 🚀 Current Focus
+- Advanced Machine Learning & Predictive Modeling  
+- End-to-End Data Science Projects  
+- Data-Driven Decision Systems  
+- Advanced Data Visualization & Storytelling
+---
+# 💼 Business Impact
+Across my projects, I focus on delivering measurable value:
+- Improving pricing and forecasting accuracy through predictive modeling  
+- Enhancing workforce and compensation decision-making using HR analytics  
+- Enabling real-time monitoring and reporting through automated dashboards  
+- Supporting data-driven strategy across finance, healthcare, and business operations 
+---
+# 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/olawinjobi  
+- Email: ola@winjobi.com  
